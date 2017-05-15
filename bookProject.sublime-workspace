@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"after",
+				"after_setup_theme"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"php",
+				"php\t<?php … ?>"
+			],
+			[
+				"date_default_",
+				"date_default_timezone_set"
+			],
+			[
+				"number",
+				"number_of_animals"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"flex-",
+				"flex-flow"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pro",
+				"programmer"
+			],
+			[
+				"gridS",
+				"gridScreenController"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"filter",
+				"color-interpolation-filters"
+			],
+			[
+				"lay",
+				"display"
+			],
+			[
+				"se",
+				"selectedCard"
+			],
+			[
+				"sele",
+				"newSelectedCard"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mrgin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"can",
+				"cancelEditing"
+			],
+			[
+				"cancel",
+				"cancelEditing"
+			],
+			[
+				"cance",
+				"cancelEditing"
+			],
+			[
+				"start",
+				"startEditing"
+			],
+			[
+				"canc",
+				"cancelCreating"
+			],
+			[
+				"new",
+				"newTheme"
+			],
+			[
+				"colo",
+				"color1"
+			],
+			[
+				"chan",
+				"changeTheme"
+			],
+			[
+				"accen",
+				"accentColor"
+			],
+			[
+				"prima",
+				"primaryColor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "color",
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"syntax: ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"set syntax: ",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"add al",
+				"Git: Add All"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add a",
+				"Git: Add All"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add c",
+				"Git: Add Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"adda",
+				"Git: Add All"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"add all",
+				"Git: Add All"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"add cu",
+				"Git: Add Current File"
+			],
+			[
+				"package int",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"control packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"controll",
+				"Package Control: List Packages"
+			],
+			[
+				"restart",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Material Theme: Activate theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"intsa",
+				"Install Package Control"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 119.0,
+		"history":
+		[
+			"execute test.py",
+			"test.py",
+			"x",
+			"cls",
+			"clear",
+			"clean",
+			"cls",
+			"reestart"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/misa_/Desktop/index.html",
+		"/C/sandbox/12_Python/bookProjectEnv/src/contact/templates/contact.html",
+		"/C/sandbox/12_Python/bookProjectEnv/src/bookProject/urls.py",
+		"/C/sandbox/12_Python/bookProjectEnv/src/bookProject/settings.py",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/views.py",
+		"/C/sandbox/12_Python/bookProjectEnv/src/contact/views.py",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/templates/base.html",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/templates/home.html",
+		"/C/wamp/www/ACC_Projects/Python/countWords.py",
+		"/C/wamp/www/ACC_Projects/Python/moby_dick.txt",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/moby_dick.txt",
+		"/C/sandbox/12_Python/bookProjectEnv/src/forms.py",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/templates/navbar.html",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/templates/about.html",
+		"/C/sandbox/12_Python/bookProjectEnv/static/static/css/main.css",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/models.py",
+		"/C/sandbox/12_Python/bookProjectEnv/src/profiles/admin.py",
+		"/C/sandbox/12_Python/bookProject/bookProject/db.sqlite3",
+		"/C/sandbox/12_Python/bookProject/Scripts/django-admin.py",
+		"/C/wamp/www/ACC_Projects/Python/deposits.txt",
+		"/C/wamp/www/ACC_Projects/Python/test.py",
+		"/C/wamp/www/ACC_Projects/Python/middleString.py",
+		"/C/wamp/www/ACC_Projects/ClassPHP/Exercise_04-17-2017.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/template-parts/content-page.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/style.css",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/header.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/footer.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/index.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/sidebar.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/template-parts/content-none.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/template-parts/content-search.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/template-parts/content.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/functions.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/WP_Project/wordpress/wp-content/themes/accproject/index2.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-config.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo_underscores/index.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo_underscores/header.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo_underscores/style.css",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo_underscores/template-parts/content-page.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo_underscores/navabr.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/ACC-PHP-Blog/resources/views/posts/show.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/navbar.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/composer.json",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/index.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/header.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/index.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/style.css",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/myStyles.css",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-content/themes/acc_demo/footer.php",
+		"/C/wamp/www/objectOrientedPHP/ClassWordPress/acc_demo/wordpress/wp-config-sample.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/app/Http/Controllers/PostController.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/resources/views/posts/show.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/resources/views/posts/index.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/resources/views/posts/edit.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/resources/views/partials/_nav.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/public/css/styles.css",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog_first_edition/resources/views/partials/_head.blade.php",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/routes/web.php",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/app/Http/Controllers/Project.php",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/resources/views/create.blade.php",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/public/js/app.js",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/app/Http/Controllers/Controller.php",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/app/Http/Controllers/ProjectCtrl.php",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vue-app/resources/views/welcome.blade.php",
+		"/C/Users/misa_/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/misa_/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/objectOrientedPHP/vueJs/lesson/src/components/Counter.vue",
+		"/C/wamp/www/objectOrientedPHP/vueJs/lesson/package.json",
+		"/C/wamp/www/objectOrientedPHP/vueJs/lesson/src/App.vue",
+		"/C/wamp/www/objectOrientedPHP/vueJs/my-app/src/components/Message.vue",
+		"/C/wamp/www/objectOrientedPHP/vueJs/my-app/src/App.vue",
+		"/C/wamp/www/objectOrientedPHP/vueJs/main.js",
+		"/C/wamp/www/objectOrientedPHP/vueJs/vuejs.html",
+		"/C/Users/misa_/Desktop/Thiago.html",
+		"/C/wamp/www/objectOrientedPHP/vuejs.html",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/post.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/index.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/del.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/edit.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/insert.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/add.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/get.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/class04262017/tutorial.php",
+		"/C/Users/misa_/Desktop/test/composer.json",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/composer.json",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/Challenge/composer.json",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/tests/Unit/ExampleTest.php",
+		"/C/Users/misa_/Desktop/Dom/test/Document.test.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/tests/TestCase.php",
+		"/C/Users/misa_/Desktop/Dom/circle.yml",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/config/app.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/.gitignore",
+		"/C/Users/misa_/Desktop/Dom/src/Node.php",
+		"/C/Users/misa_/Desktop/Dom/src/Document.php",
+		"/C/Users/misa_/Desktop/Dom/README.md",
+		"/C/Users/misa_/Desktop/Dom/composer.json",
+		"/C/Users/misa_/Desktop/Dom/.gitignore",
+		"/C/Users/misa_/Desktop/Dom/phpunit.xml",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/workers/index.blade.php",
+		"/C/wamp/bin/apache/apache2.4.23/bin/php.ini",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/Challenge/index.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/partials/_head.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/partials/_javascript.blade.php",
+		"/C/Users/misa_/Desktop/ACC-Challenge/server.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/partials/_nav.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/app/Http/Controllers/WorkerController.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/workers/show.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/public/css/style.css",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/workers/edit.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/main.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/workers/create.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/routes/web.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/pages/index.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/app/Http/Controllers/PageController.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/partials/_footer.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/resources/views/posts/show.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/app/Http/Controllers/PostController.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/resources/views/main.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/resources/views/partials/_messages.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/resources/views/partials/_messages.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/config/session.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/app/Post.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/routes/web.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/resources/views/posts/create.blade.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/DevMarketer/blog/config/app.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/app/Http/Controllers/workerController.php",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/.env",
+		"/C/wamp/www/objectOrientedPHP/ClassPHP/customers/database/migrations/2017_04_22_235103_create_workers_table.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\wamp\\www\\objectOrientedPHP\\ClassPHP\\DevMarketer\\blog",
+			"blog",
+			"<project>",
+			"C:\\wamp",
+			"C:\\sandbox\\MobileUI\\nearmobile",
+			"C:\\sandbox\\MobileUI"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"script",
+			"locals()",
+			"return",
+			"render(request, template, context)",
+			"return",
+			"[0]",
+			"text2sorted",
+			"mylist",
+			"about",
+			"home",
+			"user",
+			":\n",
+			"Search for:",
+			"Recent Posts",
+			"entry-title",
+			"h2",
+			"p",
+			"margin",
+			"html",
+			"style",
+			"my_s",
+			"pww",
+			"primary Menu",
+			"get_header",
+			"get_",
+			"errors",
+			"u",
+			"line",
+			"div",
+			"cupon",
+			"tab",
+			"slots",
+			"span",
+			"h1",
+			"_POST",
+			"APP_KEY",
+			"PHPUnit_Framework_TestCase",
+			"PHPUnit_Framework_Assert",
+			"PHPUnit_Framework",
+			"PHPRC ",
+			"button",
+			"{{worker->id}}",
+			"null",
+			"workers",
+			"btn-block",
+			"workers ",
+			"links",
+			"span",
+			"p",
+			"btn-block",
+			"text-center",
+			"center",
+			"name",
+			"title",
+			"post",
+			"title",
+			"textarea",
+			"Company",
+			"company",
+			"Body",
+			"body",
+			"Title",
+			"title",
+			"/",
+			"Route::get('/'",
+			"Application Routes",
+			"Here is where you will register all of the routes",
+			"Routes file",
+			"1em",
+			"btn-medium",
+			"btn-small",
+			"is",
+			"<td>a</td>",
+			"<tr>",
+			"test",
+			"extension",
+			"extensio",
+			"Scorpio",
+			"Aquarius",
+			"20",
+			"data",
+			"background: #f4f4f4;",
+			"root",
+			"password",
+			"pasdword",
+			"AllowNoPassword",
+			"$cfg['Servers'][$i]['AllowNoPassword']",
+			"what_is_good",
+			"$animal_one",
+			"one",
+			"true",
+			"Last Name",
+			"Phone Number",
+			"cLastName",
+			"Last Name",
+			"last name",
+			"Last Name",
+			"last name",
+			"Last Name",
+			"First Name",
+			"first name",
+			"First Name",
+			"false",
+			"true",
+			"class=\"\"",
+			"md-body-1",
+			"true",
+			"1em 1em 1em 1em",
+			"false",
+			"true",
+			"#d8dddf",
+			"grey",
+			"md-subhead",
+			"class",
+			"layout-padding",
+			"false",
+			"span",
+			"layout-padding",
+			"span",
+			"true",
+			"false",
+			"true",
+			"false",
+			"true",
+			"false",
+			"true",
+			"false",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"matches",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 104.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 134.0
+	},
+	"output.git":
+	{
+		"height": 231.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "bookProject.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"public\\js\\app.js"
+			],
+			[
+				"route/",
+				"routes\\web.php"
+			],
+			[
+				"create.b",
+				"resources\\views\\create.blade.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"route/w",
+				"routes\\web.php"
+			],
+			[
+				"route/we",
+				"routes\\web.php"
+			],
+			[
+				"style",
+				"styles.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

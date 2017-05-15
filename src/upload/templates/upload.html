@@ -1,0 +1,57 @@
+{% extends  'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<div class="row">
+        
+        {% if form %}
+	        <div class="col-sm-6 col-sm-offset-3">
+                        <h1> {{ title }} </h1>
+                        <form enctype="multipart/form-data" method="post" action=""> 
+                                {% csrf_token %}
+	                        {{ form|crispy }}
+	                        <input type="submit" value="submit form" class="btn btn-default">
+                        </form>
+                </div>
+        {% endif %}
+
+        {% if confirm_message %}
+                <div class="col-sm-6 col-sm-offset-3">
+                        <h4 class="alert alert-success"> {{ confirm_message }} </h4>
+                        <h6>{{ description }}</h6>
+                        <div class="row">
+                                <table id="datatable" class="table table-responsive table-striped table-bordered" cellspacing="0" width="100%">
+                                        <thead>
+                                                <tr>
+                                                        <th>Words</th>
+                                                        <th>Frequency</th>
+                                                </tr>
+                                        </thead>
+                                        <tbody>
+                                        {% for word in list %}
+                                                <tr>
+                                                        <td>{{ word.word }}</td>
+                                                        <th scope="row">{{ word.frequency }}</th>
+                                                </tr>
+                                        {% endfor %}
+                                        </tbody>
+                                </table>
+                        </div>
+                </div>
+        {% endif %}
+
+</div>
+
+{% endblock %}
+
+{% block script%}
+ <script>
+    $(document).ready(function() {
+      $('#datatable').DataTable({
+        columnDefs: [ {
+            targets: [ 0 ],
+            orderData: [ 0, 1 ]
+        } ]
+        });
+    });
+  </script>
+ {% endblock %}
